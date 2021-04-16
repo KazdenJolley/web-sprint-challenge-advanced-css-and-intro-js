@@ -164,4 +164,16 @@ button:hover{
     .title-container hr{
         width: 100%;
     }
+    /* artist section */
+    .artists-container{
+        flex-direction: column;
+        line-height: 1;
+    }
+    .artist{
+        width: 100%;
+    }
+    .artist img{
+        width: 60%;
+        height: 23vh;
+    }
 }
